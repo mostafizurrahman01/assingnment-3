@@ -1,4 +1,4 @@
-//
+//https://github.com/mostafizurrahman01/assingnment-3
 
 // 1.
 function kilometerToMeter(number) {
@@ -67,7 +67,7 @@ console.log(result);
 // 4.
 function megaFriend(str_arr) {
     var  lengthNum= 0, largest;
-    if (str_arr != [] || str_arr != '') {
+    if (str_arr != [] || str_arr != "") {
         for (var i = 0; i < str_arr.length; i++) {
             if (str_arr[i].length > lengthNum) {
                 lengthNum = str_arr[i].length;
